@@ -14,7 +14,7 @@ import java.util.Date;
 
 @Entity
 @Configuration
-@Table(schema = "clientes" )
+@Table(schema = "PinAppChallenge" )
 public class Cliente {
 
     @Getter
